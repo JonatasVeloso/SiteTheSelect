@@ -1,0 +1,16 @@
+h1 {
+	font-size: 40px;
+	background-color: #000;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: "Open Sans", sans-serif;
+	margin: -8px;
+}
+h2 {
+	font-size: 35px;
+}
+footer {
+	background-color: #000000;
+	color: #FFFFFF;
+	margin: -8px;
+}
